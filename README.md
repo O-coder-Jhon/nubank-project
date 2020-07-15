@@ -17,6 +17,7 @@ Java Script
 React Native
 Expo
 Axios
+
 👷 Instalação
 Você precisa instalar o Node.js e o Expo primeiro e, em seguida clone o repositório.
 
