@@ -1,34 +1,66 @@
-# nubank-project
+# nubank_Interface
+Recriando interface do Nubank. Disciplina de Mobile Senai
 
-🎥 Nubank Project
-Recriando a interface do aplicativo Nubank, como atividade avaliativa da disciplica de Desenvolvimento Mobile do Senai
+<p align="center">
+   <img src="./doc/logo-readme.png" width="150"/>
+</p>
 
-🧿 Objetivo
-| Recriar a interface do Nubank do zero
+[![NPM Version][npm-version]][npm-version]
+[![NPM License][npm-license]][npm-license]
+[![Code Size][code-size]][code-size]
 
-✒️ Justificativa
-| Este projeto faz parte das atividades avaliativas do curso de desenvolvimento de sistemas para dispositivos móveis do curso de DS do SENAI.
+## :nazar_amulet: Objetivo
 
-👨‍💻 Autor
-Foto	Nome	GitHub	E-mail
-	Jonas Almeida Santos	O-coder-Jhon	oww.jhon@gmail.com
-💻 Tecnologias
-Java Script
-React Native
-Expo
-Axios
+| Recriar a interface do Nubank
 
-👷 Instalação
-Você precisa instalar o Node.js e o Expo primeiro e, em seguida clone o repositório.
+## :black_nib: Justificativa
 
-🔧 Instalar dependências
-Execute npm install para instalar as dependências;
-Execute npm start para iniciar o aplicativo;
-⚙️ Arquitetura do App
+| Esse projeto é uma atividade avaliativa da disciplina de Desenvolvimento de Sistemas para dispositivos móveis do curso de DS do Senai.
 
-Foi utilizado o React Native para desenvolver a estrutura do app, e através da biblioteca axios consumimos a api do Youtube que nos retorna os vídeos desejados.
+## :art: Interface
 
-📖 License
-Lançado em 2020. Este projeto está sob a MIT license.
+<img src="./doc/nubankUI.png" width="400px">
 
-Feito com ❤️ por Jonas Almeida Santos
+## :man_technologist: Autor
+
+Foto | Nome | GitHub | E-mail
+---- | ---- | ------ | ------
+<img src="./doc/" width="100px">  | Jonas Almeida Santos| [O-coder-Jhon](https://github.com/O-coder-Jhon) | oww.jhon@gmail.com
+
+## :computer: Tecnologias
+
+- JS
+- React Native
+
+Frameworks:
+
+- Axios
+
+## :construction_worker: Comandos
+
+- Instalar o Expo-cli:
+  npm install -g expo-cli
+
+- Inicializar uma aplicação
+  expo init name_project
+
+- Instalar dependências
+  npm install
+
+- Start na aplicação
+  npm start
+
+## :open_book: License
+
+Lançado em 2020.
+Este projeto está sob a [MIT license](https://github.com/O-coder-Jhon/nubank-project/blob/master/LICENSE).
+
+<p align="center">
+    Feito com :heart: por <a href="https://github.com/rafaelevissa">Jonas Almeida</a>
+</p>
+
+<!-- Markdown link & img dfn's -->
+
+[npm-license]: https://img.shields.io/npm/l/express?color=03ca6f&style=plastic
+[npm-version]: https://img.shields.io/npm/v/npm?color=333333&style=plastic
+[code-size]: https://img.shields.io/github/languages/code-size/rafaellevissa/appDevFlix?color=03ca6f&style=plastic
